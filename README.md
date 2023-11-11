@@ -49,5 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspiration and code snippets from [How to Programmatically Set the Default Terminal in Different Linux Distributions](https://www.digitalocean.com/community/tutorials/how-to-programmatically-set-the-default-terminal-in-different-linux-distributions)
 - Fish shell [documentation](https://fishshell.com/docs/current/index.html)
